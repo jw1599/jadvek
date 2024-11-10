@@ -202,7 +202,7 @@
 /* Template Backgrounds Start */
 /* ------------------------------------------------*/
 .main-image-1 {
-  background-image: url("../img/backgrounds/ik.webp");
+  background-image: url("https://dummyimage.com/1400x1000/414141/636363");
 }
 
 .main-image-2 {
@@ -210,7 +210,7 @@
 }
 
 .about-image-1 {
-  background-image: url("../img/backgrounds/ook-ik.webp");
+  background-image: url("https://dummyimage.com/1400x1000/4d4d4d/636363");
 }
 
 .marquee-image-single-1 {
@@ -238,19 +238,19 @@
 }
 
 .portfolio-item-1 {
-  background-image: url("../img/backgrounds/beerwulf.webp");
+  background-image: url("https://dummyimage.com/1920x1080/686868/737373");
 }
 
 .portfolio-item-2 {
-  background-image: url("https://dummyimage.com/1600x1200/414141/636363");
+  background-image: url("https://dummyimage.com/1920x1080/414141/636363");
 }
 
 .portfolio-item-3 {
-  background-image: url("https://dummyimage.com/1600x1200/686868/737373");
+  background-image: url("https://dummyimage.com/1920x1080/686868/737373");
 }
 
 .portfolio-item-4 {
-  background-image: url("https://dummyimage.com/1600x1200/414141/636363");
+  background-image: url("https://dummyimage.com/1920x1080/414141/636363");
 }
 
 .portfolio-item-5 {
